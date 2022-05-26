@@ -1,2 +1,6 @@
 # Programming-for-Data-Science
-Work on python tasks
+
+# Task 1- Defining functions to solve mathematical problems like mean, standard deviation, quartiles without using external libriaries and any import functions.
+
+
+# Task 2- Merging files and carrying out statiscal analysis using pythons external libraries. 
